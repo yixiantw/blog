@@ -1,21 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>new post 新文章</title>
+    <url>/blog/1.html</url>
+    <content><![CDATA[<p>在下面加入繼續閱讀</p>
+<span id="more"></span>
+
+<blockquote class="blockquote-center">
+<p>文本居中引用效果</p>
+
+</blockquote>
+
+<details class="note "><summary><p>class_name</p>
+</summary>
+<p>加上註解 </p>
+
+</details>
+
+<div class="note default"><p>default 提示</p>
+</div>
+
+<div class="note primary"><p>primary 提示</p>
+</div>
+
+<div class="note success"><p>success 提示</p>
+</div>
+
+<div class="note info"><p>info 提示</p>
+</div>
+
+<div class="note warning"><p>warning 提示</p>
+</div>
+
+<div class="note danger"><p>danger 提示</p>
+</div>
+
+<h1 id="Lable-跟-note-可以一起用"><a href="#Lable-跟-note-可以一起用" class="headerlink" title="Lable 跟 note 可以一起用"></a>Lable 跟 note 可以一起用</h1><p>[class] : default | primary | success | info | warning | danger.</p>
+<mark class="label [class]">Text</mark>
+
+<p>假如一間<mark class="label default">鐵屋子</mark>，是<mark class="label warning">絕無窗戶</mark>而<mark class="label danger">萬難破毀</mark>的，裏面有許多<mark class="label info">熟睡的人們</mark>，不久都要悶死了，然而是<mark class="label success">從昏睡入死滅</mark>，並不感到就死的悲哀。現在你大嚷起來，驚起起了較為清醒的幾個人，使這不幸的少數者來受無可挽救的臨終的苦楚，你倒以為<mark class="label primary">對得起</mark>他們麼？</p>
+<h1 id="class"><a href="#class" class="headerlink" title="[class] :"></a>[class] :</h1><h2 id="default"><a href="#default" class="headerlink" title="default"></a>default</h2><h2 id="primary"><a href="#primary" class="headerlink" title="primary"></a>primary</h2><h3 id="success"><a href="#success" class="headerlink" title="success"></a>success</h3><h3 id="info"><a href="#info" class="headerlink" title="info"></a>info</h3><h4 id="warning"><a href="#warning" class="headerlink" title="warning"></a>warning</h4><h5 id="danger"><a href="#danger" class="headerlink" title="danger"></a>danger</h5><h1 id="test-大標"><a href="#test-大標" class="headerlink" title="test 大標"></a>test 大標</h1><p>隨便寫點內容</p>
+<h2 id="加個中標-title"><a href="#加個中標-title" class="headerlink" title="加個中標 title"></a>加個中標 title</h2><p>然後再寫一些<em>東西</em></p>
+<p>或許還有<strong>something</strong></p>
+<h3 id="再來一個小標-see-what-happens"><a href="#再來一個小標-see-what-happens" class="headerlink" title="再來一個小標 see what happens"></a>再來一個小標 see what happens</h3><p>中英文都要有</p>
+<p>both Chinese and English</p>
+<h4 id="四個井號會出現這樣的標題"><a href="#四個井號會出現這樣的標題" class="headerlink" title="四個井號會出現這樣的標題"></a>四個井號會出現這樣的標題</h4><ol>
+<li>一</li>
+<li>二</li>
+<li>三</li>
+</ol>
+<ul>
+<li>點</li>
+<li>點</li>
+<li>點</li>
+</ul>
+<h5 id="五個井號"><a href="#五個井號" class="headerlink" title="五個井號"></a>五個井號</h5><figure class="highlight haskell"><table><tr><td class="code"><pre><span class="line"><span class="title">let</span> cons8 list = <span class="number">8</span> : list</span><br><span class="line">:t cons8</span><br><span class="line">:t list </span><br><span class="line">:t (:)</span><br></pre></td></tr></table></figure>
+
+
+
+<p>先這樣</p>
+]]></content>
+      <categories>
+        <category>Typora</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
-    <url>/blog/2022/10/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <url>/blog/0.html</url>
+    <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
+<span id="more"></span>
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing<i class="fa fa-external-link-alt"></i></span></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server<i class="fa fa-external-link-alt"></i></span></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating<i class="fa fa-external-link-alt"></i></span></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment<i class="fa fa-external-link-alt"></i></span></p>
 ]]></content>
+      <categories>
+        <category>miscellanea</category>
+      </categories>
+      <tags>
+        <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Chinese 中文文章測試</title>
+    <url>/blog/2.html</url>
+    <content><![CDATA[<p>Markdown 是一種輕量級標記式語言， 它有純文字標記的特性，讓<strong>編寫的可讀性</strong>提高，這是在以前很多電子郵件中就已經有的寫法，而目前也有很多網站都使用 Markdown 來撰寫說明文件或是在論壇上發表文章與發送訊息。常見網站例如：GitHub、wordpress、Slack、FB Messenger、IT 邦幫忙文章發表等等。</p>
+<span id="more"></span>
+
+<h3 id="Markdown-優點"><a href="#Markdown-優點" class="headerlink" title="Markdown 優點"></a>Markdown 優點</h3><ul>
+<li>相較 HTML 之下，不會夾雜很多不必要的標籤，讓可讀性提高。</li>
+<li>不需要像程式碼一樣縮排。</li>
+</ul>
+<h3 id="Markdown-缺點"><a href="#Markdown-缺點" class="headerlink" title="Markdown 缺點"></a>Markdown 缺點</h3><ul>
+<li>若使用在像 wordpress 的網站時，要調整一些樣式變化是不太方便的。</li>
+<li>需習慣 Markdown 的編輯方式。</li>
+</ul>
+<p>關於 Markdown 的語法這邊就不一一介紹，以下為兩個了解 Markdown 語法的網站，第一個是寫完 Markdown 即時顯示出來的網站，但要注意這個網站並沒有儲存的功能，所以一但重新整理後就沒有紀錄了，第二個直接將寫好的 HTML 內容轉換為 Markdown 語法。</p>
+<ul>
+<li>即時編譯 Markdown 語法所顯示的版面<ul>
+<li><span class="exturl" data-url="aHR0cDovL21hcmtkb3dubGl2ZXByZXZpZXcuY29tLw==">http://markdownlivepreview.com/<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+</li>
+<li>將 HTML 語法轉為 Markdown<ul>
+<li><span class="exturl" data-url="aHR0cHM6Ly9kb21jaHJpc3RpZS5naXRodWIuaW8vdHVybmRvd24v">https://domchristie.github.io/turndown/<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+</li>
+</ul>
+<p>上面有提到有許多網站都可以使用 Markdown 語法，但在每個網站可以接受的 Markdown 的語法都不太一樣，我們就挑幾個來聊聊。</p>
+<h3 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h3><p>有使用過 GitHub 都一定有看過 README.md，而 md 表示的意思其實就是 Markdown ，所以如果在開發時會使用 README.md 的人，就一起來看看在 README.md 上如何用 Markdown 撰寫吧！這邊介紹幾個常用的語法:</p>
+<h4 id="字體"><a href="#字體" class="headerlink" title="字體"></a>字體</h4><p>字體樣式是使用在一般文字中加強文字重要性，或是表示標題，粗體通常會用在一段文字中，強調某些字是這個語句中的重點，而標題字會依照字體大小來表示出這個標題的主要性，使用標題字的 Markdown 語法要特別注意 # 號越少標題越大，也就代表標題的重要性越高。</p>
+<figure class="highlight haskell"><table><tr><td class="code"><pre><span class="line"><span class="title">main</span> = <span class="keyword">do</span></span><br><span class="line">  x &lt;- putStrLn <span class="string">&quot;Please enter your name:&quot;</span></span><br><span class="line">  name &lt;- getLine</span><br><span class="line">  putStrLn (<span class="string">&quot;Hello, &quot;</span> ++ name ++ <span class="string">&quot;, how are you?&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight haskell"><table><tr><td class="code"><pre><span class="line"><span class="title">doGuessing</span> num = <span class="keyword">do</span></span><br><span class="line">   putStrLn <span class="string">&quot;Enter your guess:&quot;</span></span><br><span class="line">   guess &lt;- getLine</span><br><span class="line">   <span class="keyword">if</span> (read guess) &lt; num</span><br><span class="line">     <span class="keyword">then</span> <span class="keyword">do</span> putStrLn <span class="string">&quot;Too low!&quot;</span></span><br><span class="line">             doGuessing num</span><br><span class="line">     <span class="keyword">else</span> <span class="keyword">if</span> (read guess) &gt; num</span><br><span class="line">            <span class="keyword">then</span> <span class="keyword">do</span> putStrLn <span class="string">&quot;Too high!&quot;</span></span><br><span class="line">                    doGuessing num</span><br><span class="line">            <span class="keyword">else</span> putStrLn <span class="string">&quot;You Win!&quot;</span></span><br></pre></td></tr></table></figure>
+
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-class">.site-brand-container</span> &#123;</span><br><span class="line">  <span class="attribute">background</span>: <span class="built_in">url</span>(<span class="string">header-url</span>);</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">200px</span>; //設定高度</span><br><span class="line">  +tablet-mobile() &#123;</span><br><span class="line">    <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">0</span> <span class="number">16px</span> <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>, .<span class="number">5</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.post-block</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: <span class="built_in">rgba</span>(<span class="number">255</span>,<span class="number">255</span>,<span class="number">255</span>,<span class="number">0.7</span>) none repeat scroll <span class="meta">!important</span>; </span><br><span class="line">&#125;</span><br><span class="line">//backgroud 設定漸層</span><br><span class="line"><span class="selector-tag">body</span> &#123;</span><br><span class="line">      <span class="attribute">background-color</span>: <span class="number">#c7e8ff</span>;</span><br><span class="line">      <span class="attribute">background-image</span>: <span class="built_in">linear-gradient</span>(<span class="number">180deg</span>, <span class="number">#c7e8ff</span> <span class="number">0%</span>, <span class="number">#fffde8</span> <span class="number">90%</span>);</span><br><span class="line">      <span class="attribute">background-size</span>: cover;</span><br><span class="line">      <span class="attribute">background-repeat</span>: no-repeat;</span><br><span class="line">      <span class="attribute">background-attachment</span>: fixed;</span><br><span class="line">      <span class="attribute">background-position</span>:center center;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">// 中文字體在這裡看起來是這樣，English is like this</span><br></pre></td></tr></table></figure>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>image test 圖片測試</title>
+    <url>/blog/4.html</url>
+    <content><![CDATA[<h3 id="image-test"><a href="#image-test" class="headerlink" title="image test"></a>image test</h3><span id="more"></span>
+
+<p><img src="/blog/images/404.png" alt="圖片測試"></p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>English</title>
+    <url>/blog/3.html</url>
+    <content><![CDATA[<p>This article about safety and crime in Taiwan won’t go into details about <span class="exturl" data-url="aHR0cHM6Ly93d3cudGFpd2FuZXNlLXNlY3JldHMuY29tL3RhaXdhbi1zY29vdGVyLw==">riding<i class="fa fa-external-link-alt"></i></span> or driving in Taiwan. The road is by far the #1 threat to your safety (and life) on this island. <span class="exturl" data-url="aHR0cHM6Ly93d3cudGFpd2FuZXNlLXNlY3JldHMuY29tL3R5cGhvb24tdGFpd2FuLw==">Typhoons<i class="fa fa-external-link-alt"></i></span> and earthquakes also have their own pages and won’t be discussed here.</p>
+<span id="more"></span>
+
+<h3 id="Taiwan-is-very-safe"><a href="#Taiwan-is-very-safe" class="headerlink" title="Taiwan is very safe"></a>Taiwan is very safe</h3><p>Taiwan is without question one of the safest places you’ve ever been, unless you have one of those crazy panic rooms in your house. Violent crime is outstandingly low, theft is uncommon, and there are surprisingly few people that are “out to get you.”</p>
+<p>Because of the non-stop, 24-hour eating culture, most streets and sidewalks are safe through all hours of the night, even for women. It can be a pretty shocking and reassuring sight to be drunkenly walking down a tiny alley at 4 a.m. and see a young woman comfortably strolling by in the other direction.</p>
+<h3 id="Places-to-avoid-in-Taiwan"><a href="#Places-to-avoid-in-Taiwan" class="headerlink" title="Places to avoid in Taiwan"></a>Places to avoid in Taiwan</h3><p>That said, there are things that should be avoided. Trust your instincts when it comes to places like shady bars and nightclubs, as some of them can (though rarely) be fronts for gangs or other organized crime. Also, beware of “massage parlors” that have no windows or are otherwise slightly off-putting – massage parlors being used as covers for illegal prostitution are not uncommon. If that’s your thing, it’s definitely illegal so don’t expect the police to treat you nicely if something goes wrong while you’re inside.</p>
+<h3 id="What-about-drugs-in-Taiwan"><a href="#What-about-drugs-in-Taiwan" class="headerlink" title="What about drugs in Taiwan?"></a>What about drugs in Taiwan?</h3><p>Drugs, including marijuana, are nominally highly criminalized in Taiwan, with the government making occasional examples of foreigners who break the laws. You might hear urban myths from expatriates about foreigners getting the death penalty for drug trafficking, or getting several years in prison for smoking some cannabis at a concert. Take these anecdotes with a grain of salt, but do keep in mind that if you get caught by a particularly surly cop there may well be repercussions.</p>
+<h3 id="Police"><a href="#Police" class="headerlink" title="Police"></a>Police</h3><p>If something does go wrong (and you’re not the one breaking the law), the police in Taiwan will most likely be very supportive and friendly but don’t expect them to quickly, if ever, resolve your case or find the person accused. Because of the lack of serious crime the police force is not really accustomed to tackling bigger offences. On the positive side, they are generally nice people and a far cry from the rampant corruption you will find in other police forces across the globe.</p>
+<p>The police can be identified by their creepy-looking gray and maroon eagle shield crest, which will have “POLICE” clearly written in English. Emergency numbers in Taiwan are 110 for police, 119 for the fire department or ambulance, 113 for domestic violence or sexual assault, and there is also a toll-free, English-language foreigner service hotline at 0800-024-111.</p>
+<h3 id="Public-spaces-are-very-safe"><a href="#Public-spaces-are-very-safe" class="headerlink" title="Public spaces are very safe"></a>Public spaces are very safe</h3><p><img src="https://www.taiwanese-secrets.com/wp-content/uploads/taiwan-security-and-crime.png" alt="taiwan security and crime">Public spaces in Taiwan are also quite safe. Pickpockets may make an appearance at huge festivals or night markets, but it’s exceptionally rare. Public transit, such as intercity trains, the Taipei Mass Rapid Transit (MRT) line or city buses, are also not to be worried about. Many of these services stop earlier than you may be accustomed to – for example the Taipei MRT stops running at midnight, even on weekends – and this no doubt helps make them a bit safer.</p>
+<p>Many younger people, Taiwanese and foreigners alike, can be found drinking in parks all the way through to sunrise, unlike the dangers to be found in parks in the United States, South America, or basically most places in the world.</p>
+<h3 id="Taiwan-security-and-crime-–-In-conclusion"><a href="#Taiwan-security-and-crime-–-In-conclusion" class="headerlink" title="Taiwan security and crime – In conclusion"></a>Taiwan security and crime – In conclusion</h3><p>Overall, the most dangerous thing about Taiwan is that when you leave you may forget how to behave in a place that’s not as safe. After endless great experiences – drinking in parks, hiking up a mountain and setting up makeshift, having someone offer to drive you 15km on his scooter for free and generally not feeling afraid for your personal safety – going back to the “civilized” world can be a bit of a wakeup call.</p>
+]]></content>
+      <categories>
+        <category>test</category>
+        <category>Engtest</category>
+      </categories>
+      <tags>
+        <tag>English</tag>
+      </tags>
   </entry>
 </search>

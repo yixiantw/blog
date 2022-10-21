@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yixian</title>
-  
-  
+  <title>Yixian @ earth</title>
+  <icon>https://yixiantw.github.io/blog/images/flower48.ico</icon>
+  <subtitle>在一片荒蕪中種樹栽花&lt;br&gt;時有雜草</subtitle>
   <link href="https://yixiantw.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://yixiantw.github.io/blog/"/>
-  <updated>2022-10-21T01:17:44.911Z</updated>
+  <updated>2022-10-21T05:18:11.854Z</updated>
   <id>https://yixiantw.github.io/blog/</id>
   
   <author>
@@ -18,21 +18,96 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yixiantw.github.io/blog/2022/10/21/hello-world/"/>
-    <id>https://yixiantw.github.io/blog/2022/10/21/hello-world/</id>
-    <published>2022-10-21T01:17:44.911Z</published>
-    <updated>2022-10-21T01:17:44.911Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <link href="https://yixiantw.github.io/blog/0.html"/>
+    <id>https://yixiantw.github.io/blog/0.html</id>
+    <published>2022-10-21T05:17:53.698Z</published>
+    <updated>2022-10-21T05:18:11.854Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;</summary>
     
     
     
+    <category term="miscellanea" scheme="https://yixiantw.github.io/blog/categories/miscellanea/"/>
+    
+    
+    <category term="English" scheme="https://yixiantw.github.io/blog/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>image test 圖片測試</title>
+    <link href="https://yixiantw.github.io/blog/4.html"/>
+    <id>https://yixiantw.github.io/blog/4.html</id>
+    <published>2022-10-20T06:19:53.000Z</published>
+    <updated>2022-10-20T06:19:53.000Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;image-test&quot;&gt;&lt;a href=&quot;#image-test&quot; class=&quot;headerlink&quot; title=&quot;image test&quot;&gt;&lt;/a&gt;image test&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="blog" scheme="https://yixiantw.github.io/blog/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Chinese 中文文章測試</title>
+    <link href="https://yixiantw.github.io/blog/2.html"/>
+    <id>https://yixiantw.github.io/blog/2.html</id>
+    <published>2022-10-14T07:45:45.000Z</published>
+    <updated>2022-10-21T05:18:46.134Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Markdown 是一種輕量級標記式語言， 它有純文字標記的特性，讓&lt;strong&gt;編寫的可讀性&lt;/strong&gt;提高，這是在以前很多電子郵件中就已經有的寫法，而目前也有很多網站都使用 Markdown 來撰寫說明文件或是在論壇上發表文章與發送訊息。常見網站例如：GitHub、wordpress、Slack、FB Messenger、IT 邦幫忙文章發表等等。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>English</title>
+    <link href="https://yixiantw.github.io/blog/3.html"/>
+    <id>https://yixiantw.github.io/blog/3.html</id>
+    <published>2022-10-14T07:44:00.000Z</published>
+    <updated>2022-10-21T05:18:58.906Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This article about safety and crime in Taiwan won’t go into details about &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cudGFpd2FuZXNlLXNlY3JldHMuY29tL3RhaXdhbi1zY29vdGVyLw==&quot;&gt;riding&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; or driving in Taiwan. The road is by far the #1 threat to your safety (and life) on this island. &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cudGFpd2FuZXNlLXNlY3JldHMuY29tL3R5cGhvb24tdGFpd2FuLw==&quot;&gt;Typhoons&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt; and earthquakes also have their own pages and won’t be discussed here.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="test" scheme="https://yixiantw.github.io/blog/categories/test/"/>
+    
+    <category term="Engtest" scheme="https://yixiantw.github.io/blog/categories/test/Engtest/"/>
+    
+    
+    <category term="English" scheme="https://yixiantw.github.io/blog/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>new post 新文章</title>
+    <link href="https://yixiantw.github.io/blog/1.html"/>
+    <id>https://yixiantw.github.io/blog/1.html</id>
+    <published>2022-10-11T05:31:43.000Z</published>
+    <updated>2022-10-20T06:46:41.005Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在下面加入繼續閱讀&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Typora" scheme="https://yixiantw.github.io/blog/categories/Typora/"/>
+    
+    
+    <category term="blog" scheme="https://yixiantw.github.io/blog/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://yixiantw.github.io/blog/tags/hexo/"/>
+    
+    <category term="github" scheme="https://yixiantw.github.io/blog/tags/github/"/>
     
   </entry>
   
