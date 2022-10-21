@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yixiantw.github.io/blog/404.html</loc>
+    <loc>https://yixiantw.github.io/blog/404</loc>
     
     <lastmod>2022-10-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/3.html</loc>
+    <loc>https://yixiantw.github.io/blog/5</loc>
     
     <lastmod>2022-10-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/2.html</loc>
+    <loc>https://yixiantw.github.io/blog/5</loc>
     
     <lastmod>2022-10-21</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/0.html</loc>
+    <loc>https://yixiantw.github.io/blog/3</loc>
     
     <lastmod>2022-10-21</lastmod>
     
@@ -38,7 +38,25 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/1.html</loc>
+    <loc>https://yixiantw.github.io/blog/2</loc>
+    
+    <lastmod>2022-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/0</loc>
+    
+    <lastmod>2022-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/1</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/4.html</loc>
+    <loc>https://yixiantw.github.io/blog/4</loc>
     
     <lastmod>2022-10-20</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/categories/index.html</loc>
+    <loc>https://yixiantw.github.io/blog/categories/</loc>
     
     <lastmod>2022-10-17</lastmod>
     
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/tags/index.html</loc>
+    <loc>https://yixiantw.github.io/blog/tags/</loc>
     
     <lastmod>2022-10-17</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/about/index.html</loc>
+    <loc>https://yixiantw.github.io/blog/about/</loc>
     
     <lastmod>2022-10-14</lastmod>
     
@@ -90,6 +108,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/tags/English/</loc>
+    <lastmod>2022-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://yixiantw.github.io/blog/tags/blog/</loc>
@@ -112,21 +137,7 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://yixiantw.github.io/blog/tags/English/</loc>
-    <lastmod>2022-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://yixiantw.github.io/blog/categories/Typora/</loc>
-    <lastmod>2022-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://yixiantw.github.io/blog/categories/miscellanea/</loc>
@@ -137,6 +148,13 @@
   
   <url>
     <loc>https://yixiantw.github.io/blog/categories/blog/</loc>
+    <lastmod>2022-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/categories/Typora/</loc>
     <lastmod>2022-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

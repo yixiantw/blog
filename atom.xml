@@ -6,7 +6,7 @@
   <link href="https://yixiantw.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://yixiantw.github.io/blog/"/>
-  <updated>2022-10-21T05:18:11.854Z</updated>
+  <updated>2022-10-21T10:20:22.000Z</updated>
   <id>https://yixiantw.github.io/blog/</id>
   
   <author>
@@ -17,9 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>文件標題測試</title>
+    <link href="https://yixiantw.github.io/blog/5"/>
+    <id>https://yixiantw.github.io/blog/5</id>
+    <published>2022-10-21T10:20:22.000Z</published>
+    <updated>2022-10-21T10:20:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="blog" scheme="https://yixiantw.github.io/blog/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>文件標題測試</title>
+    <link href="https://yixiantw.github.io/blog/5"/>
+    <id>https://yixiantw.github.io/blog/5</id>
+    <published>2022-10-21T10:20:22.000Z</published>
+    <updated>2022-10-21T10:20:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="blog" scheme="https://yixiantw.github.io/blog/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://yixiantw.github.io/blog/0.html"/>
-    <id>https://yixiantw.github.io/blog/0.html</id>
+    <link href="https://yixiantw.github.io/blog/0"/>
+    <id>https://yixiantw.github.io/blog/0</id>
     <published>2022-10-21T05:17:53.698Z</published>
     <updated>2022-10-21T05:18:11.854Z</updated>
     
@@ -37,8 +83,8 @@
   
   <entry>
     <title>image test 圖片測試</title>
-    <link href="https://yixiantw.github.io/blog/4.html"/>
-    <id>https://yixiantw.github.io/blog/4.html</id>
+    <link href="https://yixiantw.github.io/blog/4"/>
+    <id>https://yixiantw.github.io/blog/4</id>
     <published>2022-10-20T06:19:53.000Z</published>
     <updated>2022-10-20T06:19:53.000Z</updated>
     
@@ -54,8 +100,8 @@
   
   <entry>
     <title>Chinese 中文文章測試</title>
-    <link href="https://yixiantw.github.io/blog/2.html"/>
-    <id>https://yixiantw.github.io/blog/2.html</id>
+    <link href="https://yixiantw.github.io/blog/2"/>
+    <id>https://yixiantw.github.io/blog/2</id>
     <published>2022-10-14T07:45:45.000Z</published>
     <updated>2022-10-21T05:18:46.134Z</updated>
     
@@ -69,8 +115,8 @@
   
   <entry>
     <title>English</title>
-    <link href="https://yixiantw.github.io/blog/3.html"/>
-    <id>https://yixiantw.github.io/blog/3.html</id>
+    <link href="https://yixiantw.github.io/blog/3"/>
+    <id>https://yixiantw.github.io/blog/3</id>
     <published>2022-10-14T07:44:00.000Z</published>
     <updated>2022-10-21T05:18:58.906Z</updated>
     
@@ -90,8 +136,8 @@
   
   <entry>
     <title>new post 新文章</title>
-    <link href="https://yixiantw.github.io/blog/1.html"/>
-    <id>https://yixiantw.github.io/blog/1.html</id>
+    <link href="https://yixiantw.github.io/blog/1"/>
+    <id>https://yixiantw.github.io/blog/1</id>
     <published>2022-10-11T05:31:43.000Z</published>
     <updated>2022-10-20T06:46:41.005Z</updated>
     
