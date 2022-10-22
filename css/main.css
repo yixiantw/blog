@@ -1854,7 +1854,7 @@ header.header {
   width: 4px;
 }
 .post-body {
-  font-family: Cormorant Garamond, Noto Serif TC, 'Noto Serif TC', sans-serif;
+  font-family: EB Garamond, Noto Serif TC, 'Noto Serif TC', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2228,14 +2228,19 @@ header.header {
     transform: rotateZ(-30deg);
   }
 }
+.category-all-page {
+  font-family: "Philosopher", "Noto Serif TC";
+}
 .category-all-page .category-all-title {
+  font-size: 1.125em;
   text-align: center;
 }
 .category-all-page .category-all {
   margin-top: 20px;
 }
 .category-all-page .category-list {
-  list-style: none;
+  font-size: 1em;
+  list-style: disc;
   margin: 0;
   padding: 0;
 }
@@ -2392,6 +2397,7 @@ ul.breadcrumb li:last-child {
   font-weight: bold;
 }
 .tag-cloud {
+  font-family: "Philosopher", "Noto Serif TC";
   text-align: center;
 }
 .tag-cloud a {
@@ -2923,7 +2929,7 @@ mark.search-keyword {
 }
 body {
   font-size: 1em;
-  color: #000;
+  color: #696969;
   background-color: #c7e8ff;
   background-image: linear-gradient(180deg, #c7e8ff 0%, #fffde8 90%);
   background-size: cover;
