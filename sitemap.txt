@@ -1,5 +1,5 @@
-https://yixiantw.github.io/blog/404
 https://yixiantw.github.io/blog/about/
+https://yixiantw.github.io/blog/404
 https://yixiantw.github.io/blog/5
 https://yixiantw.github.io/blog/1
 https://yixiantw.github.io/blog/categories/
