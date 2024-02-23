@@ -36,27 +36,4 @@
     
   </entry>
   
-  <entry>
-    <title>new post 新文章</title>
-    <link href="https://yixiantw.github.io/blog/1"/>
-    <id>https://yixiantw.github.io/blog/1</id>
-    <published>2022-10-11T05:31:43.000Z</published>
-    <updated>2022-10-20T06:46:41.005Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;在下面加入繼續閱讀&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Typora" scheme="https://yixiantw.github.io/blog/categories/Typora/"/>
-    
-    
-    <category term="blog" scheme="https://yixiantw.github.io/blog/tags/blog/"/>
-    
-    <category term="hexo" scheme="https://yixiantw.github.io/blog/tags/hexo/"/>
-    
-    <category term="github" scheme="https://yixiantw.github.io/blog/tags/github/"/>
-    
-  </entry>
-  
 </feed>

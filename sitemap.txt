@@ -1,13 +1,8 @@
-https://yixiantw.github.io/blog/about/
 https://yixiantw.github.io/blog/404
+https://yixiantw.github.io/blog/about/
 https://yixiantw.github.io/blog/5
-https://yixiantw.github.io/blog/1
 https://yixiantw.github.io/blog/categories/
 https://yixiantw.github.io/blog/tags/
 https://yixiantw.github.io/blog
-https://yixiantw.github.io/blog/tags/blog/
-https://yixiantw.github.io/blog/tags/hexo/
-https://yixiantw.github.io/blog/tags/github/
 https://yixiantw.github.io/blog/tags/feminism/
-https://yixiantw.github.io/blog/categories/Typora/
 https://yixiantw.github.io/blog/categories/movies/
