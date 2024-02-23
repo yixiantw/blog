@@ -2,26 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yixian @ earth</title>
   <icon>https://yixiantw.github.io/blog/images/flower48.ico</icon>
-  <subtitle>在一片荒蕪中種樹栽花&lt;br&gt;時有雜草</subtitle>
+  <subtitle>在一片荒蕪中種樹栽花</subtitle>
   <link href="https://yixiantw.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://yixiantw.github.io/blog/"/>
-  <updated>2022-10-25T07:45:28.000Z</updated>
+  <updated>2024-02-23T11:32:37.000Z</updated>
   <id>https://yixiantw.github.io/blog/</id>
   
   <author>
-    <name>Yixian</name>
+    <name>Yixianosaurus</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>開放式關係和多重伴侶關係在美國漸成顯學？</title>
+    <link href="https://yixiantw.github.io/blog/47857"/>
+    <id>https://yixiantw.github.io/blog/47857</id>
+    <published>2024-02-23T11:32:37.000Z</published>
+    <updated>2024-02-23T11:32:37.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;2024 才剛開展，紐約兩本重要雜誌——The New Yorker《紐約客雜誌》及 New York Magazine《紐約雜誌》在一月份雙雙提及&lt;strong&gt;多重伴侶關係 Polyamory&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;紐約客的一篇社論《多重伴侶關係怎麼變得這麼流行？》揭示了多元親密關係如何在近期熱門影視一一現身，以及背後的脈絡及社會變革。一月中的紐約雜誌更將「多重伴侶關係」放上了封面——《現代多重伴侶關係的實用指南——如何開放？給好奇的情侶們》。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="波栗" scheme="https://yixiantw.github.io/blog/categories/%E6%B3%A2%E6%A0%97/"/>
+    
+    
+    <category term="polyamory" scheme="https://yixiantw.github.io/blog/tags/polyamory/"/>
+    
+    <category term="open_relationship" scheme="https://yixiantw.github.io/blog/tags/open-relationship/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《世界上最爛的人》——機靈卻取巧的當代女魯蛇童話</title>
-    <link href="https://yixiantw.github.io/blog/5"/>
-    <id>https://yixiantw.github.io/blog/5</id>
-    <published>2022-10-25T07:45:28.000Z</published>
-    <updated>2022-10-25T07:45:28.000Z</updated>
+    <link href="https://yixiantw.github.io/blog/30035"/>
+    <id>https://yixiantw.github.io/blog/30035</id>
+    <published>2024-02-23T10:24:49.000Z</published>
+    <updated>2024-02-23T10:24:49.000Z</updated>
     
     
     <summary type="html">&lt;p&gt;我差點就信了，這個要死兩個人才能成就的後現代女性主義。&lt;/p&gt;
@@ -29,7 +51,7 @@
     
     
     
-    <category term="movies" scheme="https://yixiantw.github.io/blog/categories/movies/"/>
+    <category term="films" scheme="https://yixiantw.github.io/blog/categories/films/"/>
     
     
     <category term="feminism" scheme="https://yixiantw.github.io/blog/tags/feminism/"/>

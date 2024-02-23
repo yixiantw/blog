@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yixiantw.github.io/blog/404</loc>
+    <loc>https://yixiantw.github.io/blog/47857</loc>
     
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2024-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/30035</loc>
+    
+    <lastmod>2024-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +22,16 @@
   <url>
     <loc>https://yixiantw.github.io/blog/about/</loc>
     
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2024-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/5</loc>
+    <loc>https://yixiantw.github.io/blog/404</loc>
     
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2024-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -62,10 +71,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yixiantw.github.io/blog/tags/polyamory/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/tags/open-relationship/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://yixiantw.github.io/blog/categories/movies/</loc>
+    <loc>https://yixiantw.github.io/blog/categories/films/</loc>
+    <lastmod>2024-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yixiantw.github.io/blog/categories/%E6%B3%A2%E6%A0%97/</loc>
     <lastmod>2024-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

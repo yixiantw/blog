@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 7.1.1">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/blog/images/leaf64.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/blog/images/leaf64.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/blog/images/leaf48.ico">
+
+<link rel="stylesheet" href="/blog/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+TC:300,300italic,400,400italic,700,700italic%7CSacramento:300,300italic,400,400italic,700,700italic%7CPhilosopher:300,300italic,400,400italic,700,700italic%7CAmiri:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"yixiantw.github.io","root":"/blog/","images":"/blog/images","scheme":"Gemini","darkmode":false,"version":"8.13.1","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"mac"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_header":"fadeInDown","post_body":"fadeInDown"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/blog/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/blog/js/config.js"></script>
+
+    <meta name="description" content="2024 才剛開展，紐約兩本重要雜誌——The New Yorker《紐約客雜誌》及 New York Magazine《紐約雜誌》在一月份雙雙提及多重伴侶關係 Polyamory。 紐約客的一篇社論《多重伴侶關係怎麼變得這麼流行？》揭示了多元親密關係如何在近期熱門影視一一現身，以及背後的脈絡及社會變革。一月中的紐約雜誌更將「多重伴侶關係」放上了封面——《現代多重伴侶關係的實用指南——如何開放？給">
+<meta property="og:type" content="article">
+<meta property="og:title" content="開放式關係和多重伴侶關係在美國漸成顯學？">
+<meta property="og:url" content="https://yixiantw.github.io/blog/47857">
+<meta property="og:site_name" content="Yixian @ earth">
+<meta property="og:description" content="2024 才剛開展，紐約兩本重要雜誌——The New Yorker《紐約客雜誌》及 New York Magazine《紐約雜誌》在一月份雙雙提及多重伴侶關係 Polyamory。 紐約客的一篇社論《多重伴侶關係怎麼變得這麼流行？》揭示了多元親密關係如何在近期熱門影視一一現身，以及背後的脈絡及社會變革。一月中的紐約雜誌更將「多重伴侶關係」放上了封面——《現代多重伴侶關係的實用指南——如何開放？給">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2024-02-23T11:32:37.000Z">
+<meta property="article:modified_time" content="2024-02-23T11:32:37.000Z">
+<meta property="article:author" content="Yixianosaurus">
+<meta property="article:tag" content="polyamory">
+<meta property="article:tag" content="open_relationship">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://yixiantw.github.io/blog/47857">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://yixiantw.github.io/blog/47857","path":"47857","title":"開放式關係和多重伴侶關係在美國漸成顯學？"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>開放式關係和多重伴侶關係在美國漸成顯學？ | Yixian @ earth</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GH7XEFP0MD"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-GH7XEFP0MD","only_pageview":false}</script>
+  <script src="/blog/js/third-party/analytics/google-analytics.js"></script>
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/blog/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/blog/atom.xml" title="Yixian @ earth" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/blog/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Yixian @ earth</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">在一片荒蕪中種樹栽花</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-about"><a href="/blog/about/" rel="section"><i class="fa fa-ghost fa-fw"></i>About</a></li><li class="menu-item menu-item-home"><a href="/blog/" rel="section"><i class="fa fa-mug-hot fa-fw"></i>Home</a></li><li class="menu-item menu-item-tags"><a href="/blog/tags/" rel="section"><i class="fa fa-leaf fa-fw"></i>Tags</a></li><li class="menu-item menu-item-categories"><a href="/blog/categories/" rel="section"><i class="fa fa-spider fa-fw"></i>Categories</a></li><li class="menu-item menu-item-archives"><a href="/blog/archives/" rel="section"><i class="fa fa-tree fa-fw"></i>Archives</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <span class="exturl" data-url="bWFpbHRvOm1lQHlpeGlhbi5lYXJ0aA==" title="E-Mail → mailto:me@yixian.earth"><i class="fa fa-envelope fa-fw"></i></span>
+      </span>
+  </div>
+
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%9A%E9%87%8D%E4%BC%B4%E4%BE%B6%E9%97%9C%E4%BF%82%E8%BA%8D%E4%B8%8A%E4%B8%BB%E6%B5%81%E9%9B%9C%E8%AA%8C%E5%B0%81%E9%9D%A2"><span class="nav-text">多重伴侶關係躍上主流雜誌封面</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%86%E8%87%AA%E9%9B%9C%E8%AA%8C%E7%B7%A8%E8%BC%AF%E5%AE%A4%E7%9A%84%E8%A9%B1"><span class="nav-text">來自雜誌編輯室的話</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%9A%E9%87%8D%E4%BC%B4%E4%BE%B6%E9%97%9C%E4%BF%82%E7%9A%84%E5%AF%A6%E8%B8%90%E7%9A%84%E5%90%84%E7%A8%AE%E5%9E%8B%E6%85%8B%E8%88%87%E9%9D%A2%E5%90%91"><span class="nav-text">多重伴侶關係的實踐的各種型態與面向</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%AE%80%E8%80%85%E5%9B%9E%E9%A5%8B"><span class="nav-text">讀者回饋</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%86%E8%87%AA%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%BD%BC%E7%AB%AF%E7%9A%84%E5%8F%8D%E6%87%89"><span class="nav-text">來自大西洋彼端的反應</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%9B%B8%E9%97%9C%E9%80%A3%E7%B5%90"><span class="nav-text">相關連結</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Yixianosaurus</p>
+  <div class="site-description" itemprop="description">Yixian 的私人部落格</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/blog/archives/">
+          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/blog/categories/">
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/blog/tags/">
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="cc-license site-overview-item animated" itemprop="license">
+    <span class="exturl cc-opacity" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC8="><img src="https://cdnjs.cloudflare.com/ajax/libs/creativecommons-vocabulary/2020.11.3/assets/license_badges/small/by_nc_sa.svg" alt="Creative Commons"></span>
+  </div>
+
+
+
+        </div>
+      </div>
+        <div class="back-to-top animated" role="button" aria-label="Back to top">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://yixiantw.github.io/blog/47857">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/blog/images/avatar.gif">
+      <meta itemprop="name" content="Yixianosaurus">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Yixian @ earth">
+      <meta itemprop="description" content="Yixian 的私人部落格">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="開放式關係和多重伴侶關係在美國漸成顯學？ | Yixian @ earth">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          開放式關係和多重伴侶關係在美國漸成顯學？
+        </h1>
+
+        <div class="post-meta-container">
+          <span><i class="fa fa-cash-register"></i>&ensp;Written by Yixian</span>
+
+
+<div class="post-meta">
+      <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2024-02-23 19:32:37" itemprop="dateCreated datePublished" datetime="2024-02-23T19:32:37+08:00">2024-02-23</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/blog/categories/%E6%B3%A2%E6%A0%97/" itemprop="url" rel="index"><span itemprop="name">波栗</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>2.1k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>2 mins.</span>
+    </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>2024 才剛開展，紐約兩本重要雜誌——The New Yorker《紐約客雜誌》及 New York Magazine《紐約雜誌》在一月份雙雙提及<strong>多重伴侶關係 Polyamory</strong>。</p>
+<p>紐約客的一篇社論《多重伴侶關係怎麼變得這麼流行？》揭示了多元親密關係如何在近期熱門影視一一現身，以及背後的脈絡及社會變革。一月中的紐約雜誌更將「多重伴侶關係」放上了封面——《現代多重伴侶關係的實用指南——如何開放？給好奇的情侶們》。</p>
+<span id="more"></span>
+
+<h2 id="多重伴侶關係躍上主流雜誌封面"><a href="#多重伴侶關係躍上主流雜誌封面" class="headerlink" title="多重伴侶關係躍上主流雜誌封面"></a>多重伴侶關係躍上主流雜誌封面</h2><p>紐約雜誌這個封面級的專題是近期對於開放式關係最詳盡的報導，由五個撰稿人一起合作，訪談了近 40 組開放年資不等、開放型態不一的伴侶及相關人士（如道德浪女的作者），企圖為只聞樓梯響的情侶們，提供一個實用入門指南。</p>
+<p>封面主角是四隻相互依偎的可愛貓咪，似乎試圖利用賣萌來軟化這個仍存在許多爭議的議題。</p>
+<h2 id="來自雜誌編輯室的話"><a href="#來自雜誌編輯室的話" class="headerlink" title="來自雜誌編輯室的話"></a>來自雜誌編輯室的話</h2><p>道德非單偶關係（Ethical non-monogamy, ENM) 似乎變得越來越主流，這期訪問了很多人，想跟大家一起探索如何有效地或至少不那麼混亂的開始開放式的約會。</p>
+<p>越來越多人或多或少耳聞道德非單偶關係（這不僅僅是我的想像），但同時，有些人似乎很不擅長經營這樣的關係！如果要說的好聽一點，那些人可能只是還沒有接觸到所有的可能性和了解關係的本質。就我個人而言，我迫不及待的想把這期的連結發送給下一個在交友軟體上，隨隨便便就丟出 ENM 這個詞的人！</p>
+<h2 id="多重伴侶關係的實踐的各種型態與面向"><a href="#多重伴侶關係的實踐的各種型態與面向" class="headerlink" title="多重伴侶關係的實踐的各種型態與面向"></a>多重伴侶關係的實踐的各種型態與面向</h2><p>雜誌大篇幅的介紹了在開放過程中常見的問題，許多實踐者遇到最驚心膽跳的那一面，也都毫不諱談，例如：關係中的階序調整、你可能成為伴侶的電燈泡、你的伴侶的約會對象希望你離開這段關係、開放後發現想要回去一對一關係（但其中一人已經回不去了）、你不滿足只當個次要伴侶、你的伴侶可能遇到別人就跑了、你跟伴侶可能漸行漸遠、可能直接導致分手…</p>
+<p>另外也有實用的面向，如：要怎麼跟伴侶提開放？要制定什麼規則？要怎麼跟伴侶分享我的約會？經營多段關係會佔去我多少時間？我要怎麼跟小孩說？我要怎麼跟同事說？… 等。</p>
+<p>除了40 多組開放式伴侶的訪談故事，這期雜誌也有其他系列文章，讓大家更深入了解這個主題：</p>
+<ul>
+<li>訪問了組成四人伴侶生活圈的一群愛侶，讓大家看到 Polycule 長什麼樣子</li>
+<li>開放式關係豐富了我們的婚姻，但爲什麼還會有不安全感？（心理治療師與一對剛開放的情侶的對談）</li>
+<li>79歲的道德浪女——多重關係聖經作者朵絲回首她所協助打造出來的世界</li>
+</ul>
+<h2 id="讀者回饋"><a href="#讀者回饋" class="headerlink" title="讀者回饋"></a>讀者回饋</h2><p>整個專題對多重伴侶關係保持開放正面的態度，但下面留言仍然可以看到民衆對於多元親密關係仍有諸多顧忌；雜誌出版隔天，琥碧·戈柏也在她的談話性節目大談開放式關係，來賓多半以「時間」和「無法忍受嫉妒」為由而不敢苟同，但有意思的是，節目下面的留言反而有許多為多重伴侶關係發聲的實踐者。</p>
+<h2 id="來自大西洋彼端的反應"><a href="#來自大西洋彼端的反應" class="headerlink" title="來自大西洋彼端的反應"></a>來自大西洋彼端的反應</h2><p>而針對這個專題，英國衛報也有一篇簡單的社論回應——《如果多重伴侶比較好玩，我們還在找那唯一真愛嗎？》</p>
+<p>撰文者 Hephzibah Anderson 認為大家突然開始對多重伴侶關係好奇起來，可能受到科技影響。交友軟體上不斷的滑動讓我們貪得無饜，把我們的需求養刁到沒有一個人可以滿足我們的所有需求，又或許我們期待單一伴侶扮演太多不相容的角色——愛人、最好的朋友、共同扶養小孩的人、心理治療師。也可能一個如此自戀的文化代表著我們都變成了只想拿好處不想付出的情緒特權混蛋？</p>
+<p>他也指出，紐約雜誌出版了這個專題時間點，也坐實了道德非一對一關係的關鍵改變：過去在布爾喬亞婚姻被視為一個威脅的東西，現在卻成為一個浮木。這篇文章會選在離婚率最高的月份丟出來也絕非巧合。</p>
+<p>身為英國人，他也忍不住自嘲道，像我這樣的中年單身男性，沒有太多熱情與時間給那麼多誘惑，多重伴侶關係到底有什麼吸引力？我不常嫉妒我那些有伴的同儕，但每次滑 Zoopla（英國住宅房地產軟體），都還是會希望，如果我家空間可以大一點、有個小花園、或是一個寫作空間讓我可以多賺點外快，這樣該有多好？英國當今房價與收入比，是1876年以來是最無法負擔的時刻，我想像這些多重伴侶生活圈（polycule) 會住的地方，大概就是一個有著數不完的房間的豪華莊園。</p>
+<p>畢竟讓這麼多不同的彼此糾纏的成人綁在一起，會出什麼問題？（ What could possibly go wrong ？） :P </p>
+<h2 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h2><ul>
+<li><strong>紐約客雜誌</strong>《開放季——多重伴侶關係怎麼變得這麼流行？》 2024.01.01<br><strong>The New Yorker</strong> <span class="exturl" data-url="aHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9tYWdhemluZS8yMDI0LzAxLzAxL2FtZXJpY2FuLXBvbHktY2hyaXN0b3BoZXItZ2xlYXNvbi1ib29rLXJldmlldy1tb3JlLWEtbWVtb2lyLW9mLW9wZW4tbWFycmlhZ2UtbW9sbHktcm9kZW4td2ludGVy">Open Season: How Did Polyamory Become So Popular?<i class="fa fa-external-link-alt"></i></span></li>
+<li><strong>紐約雜誌</strong>《現代多重伴侶關係的實用指南——如何開放？給好奇的情侶們》2024.01.15<br><strong>New York Magazine</strong> <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhlY3V0LmNvbS9hcnRpY2xlL2hvdy1wb2x5YW1vcm91cy1yZWxhdGlvbnNoaXBzLXdvcmstZXRoaWNhbC1ub24tbW9ub2dhbW91cy1ydWxlcy5odG1s">A Practical Guide to Modern Polyamory—— How to open things up, for the curious couple<i class="fa fa-external-link-alt"></i></span></li>
+<li>衛報《如果多重伴侶比較好玩，我們還在找那唯一真愛嗎？2024.01.21<br><strong>The Guardian</strong> <span class="exturl" data-url="aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2NvbW1lbnRpc2ZyZWUvMjAyNC9qYW4vMjEvc3RpbGwtc2VhcmNoaW5nLWZvci10aGUtb25lLXdoZW4tcG9seWFtb3J5LWlzLW1vcmUtZnVu">Still searching for The One when polyamory is more fun?<i class="fa fa-external-link-alt"></i></span></li>
+</ul>
+
+      
+      
+      
+      
+    </div>
+
+    
+    
+    
+      
+
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>Written by:  </strong>Yixian
+  </li>
+  <li class="post-copyright-link">
+      <strong>Post link: </strong>
+      <a href="https://yixiantw.github.io/blog/47857" title="開放式關係和多重伴侶關係在美國漸成顯學？">https://yixiantw.github.io/blog/47857</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC8="><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</span> unless stating additionally.<br>本站所有文章除特別聲明外，均為原創文章，採用《姓名標示-非商業性-相同方式分享 4.0 國際》許可協議。您可以自由分享文章，分享轉載時請註明作者、文章連結及出處，謝謝！
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/blog/tags/polyamory/" rel="tag"><i class="fa fa-tag"></i> polyamory</a>
+              <a href="/blog/tags/open-relationship/" rel="tag"><i class="fa fa-tag"></i> open_relationship</a>
+          </div>
+
+        
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <span class="exturl" data-url="bWFpbHRvOm1lQHlpeGlhbi5lYXJ0aA==" title="E-Mail → mailto:me@yixian.earth"><i class="fa fa-envelope fa-fw"></i></span>
+      </span>
+  </div>
+
+
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/blog/30035" rel="prev" title="《世界上最爛的人》——機靈卻取巧的當代女魯蛇童話">
+                  <i class="fa fa-feather"></i> 《世界上最爛的人》——機靈卻取巧的當代女魯蛇童話
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2024</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder"><a href=/blog/about/>Yixianosaurus</a></span>
+</div>
+  <div class="addthis_inline_share_toolbox">
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-634d2c93f6ff3de4" async="async"></script>
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+<script src="/blog/js/comments.js"></script><script src="/blog/js/utils.js"></script><script src="/blog/js/motion.js"></script><script src="/blog/js/next-boot.js"></script><script src="/blog/js/pjax.js"></script>
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.0/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/blog/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+  
+
+
+
+
+
+</body>
+</html>
