@@ -81,6 +81,13 @@
   </url>
   
   <url>
+    <loc>https://yixiantw.github.io/blog/tags/%E5%96%AE%E5%8F%A3%E5%96%9C%E5%8A%87/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yixiantw.github.io/blog/tags/polyamory/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -89,13 +96,6 @@
   
   <url>
     <loc>https://yixiantw.github.io/blog/tags/open-relationship/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yixiantw.github.io/blog/tags/%E5%96%AE%E5%8F%A3%E5%96%9C%E5%8A%87/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -111,14 +111,14 @@
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/categories/%E6%B3%A2%E6%A0%97/</loc>
+    <loc>https://yixiantw.github.io/blog/categories/%E4%BA%BA%E6%96%87%E4%B8%BB%E7%BE%A9/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yixiantw.github.io/blog/categories/%E4%BA%BA%E6%96%87%E4%B8%BB%E7%BE%A9/</loc>
+    <loc>https://yixiantw.github.io/blog/categories/%E6%B3%A2%E6%A0%97/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
